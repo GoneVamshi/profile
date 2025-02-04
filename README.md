@@ -11,7 +11,7 @@
     }
     .linkedin-image {
       width: 30px;
-      height: 30px;
+    
     }
     .language-class img {
       width: 50px;
